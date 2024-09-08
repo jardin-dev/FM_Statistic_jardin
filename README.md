@@ -1,4 +1,4 @@
-# FM_Statistique_jardin
+# FM_Statistic_jardin
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
